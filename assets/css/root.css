@@ -150,8 +150,7 @@
     --fs-4xl: 61px;
   }
   .header-bg {
-    background-size: cover;
-    height: 800px;
+    min-height: 100vh;
   }
   .nextArrow {
     right: 45%;

@@ -64,8 +64,8 @@
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
-  /* height: 800px; */
-  min-height: 100vh;
+  height: 800px;
+  /* min-height: 100vh; */
 }
 .pt-119 {
   padding-top: 119px;
